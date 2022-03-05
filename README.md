@@ -1,6 +1,18 @@
 # Weather-Checker
 This is a Weather Checker App using React.js and Weather API 🌦
 
+## Technologies 
+
+- [x] React
+- [x] Weather API
+- [x] HTML
+- [x] CSS3
+
+
+## Demonstration
+
+- [Click Here for LIVE Preview](https://weather-checkerr.netlify.app/)
+
 
 # Getting Started with Create React App
 
